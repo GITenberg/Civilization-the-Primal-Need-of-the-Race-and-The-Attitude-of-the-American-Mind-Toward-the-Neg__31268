@@ -1,0 +1,30 @@
+_repo: Civilization-the-Primal-Need-of-the-Race-and-The-Attitude-of-the-American-Mind-Toward-the-Neg__31268
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Crummell, Alexander
+    birthdate: 1819
+    deathdate: 1898
+    gutenberg_agent_id: '35108'
+    url: http://www.gutenberg.org/2009/agents/35108
+    wikipedia: http://en.wikipedia.org/wiki/Alexander_Crummell
+description: ''
+gutenberg_issued: '2010-02-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31268'
+  lccn: 09024193
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'African Americans'
+- !lcc 'E151'
+title: "Civilization the Primal Need of the Race, and The Attitude of the American\
+  \ Mind Toward the Negro Intellect\r\nThe American Negro Academy. Occasional Paper\
+  \ No. 3"
+url: http://www.gutenberg.org/ebooks/31268
